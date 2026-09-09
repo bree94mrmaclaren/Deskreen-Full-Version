@@ -286,4 +286,4 @@ This repository serves as the official landing page for Deskreen. The software i
 **Get the most recent version of Deskreen today!**
 
 ---
-**Last updated:** 2026-09-08 23:13:45 UTC
+**Last updated:** 2026-09-09 03:34:57 UTC
